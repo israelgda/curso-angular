@@ -4,12 +4,6 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
-## Instalação
-
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
-2. Entre no projeto e instale as dependencias `npm install`
-3. Caso você queira alguma aula específica lembre que voce pode pegar direto das nossas release fazendo download do zip ou clonando a partir do commit hash, URL: https://github.com/RenanRB/curso-angular/tags
-
 ## Ambiente Local
 
 Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código
